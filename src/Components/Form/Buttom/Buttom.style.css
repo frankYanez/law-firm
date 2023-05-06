@@ -1,0 +1,12 @@
+.post{
+    background-color: #5B1B1D;
+    border-radius: 5px;
+    padding: 7px;
+    color: white;
+    box-shadow: 14px 15px 6px -3px rgba(0,0,0,0.1);
+}
+
+.post:hover{
+    color: aliceblue;
+    background-color: #31090b;
+}

@@ -1,0 +1,12 @@
+.formulario{
+    max-width: 60%;
+    padding: 30px;
+    background-color: rgb(179, 178, 178);
+    flex-direction: column;
+    box-shadow: 9px 9px 4px -3px rgba(0,0,0,0.1);
+}
+
+.formulario h2{
+    font-weight: bold;
+    font-style: italic;
+}
